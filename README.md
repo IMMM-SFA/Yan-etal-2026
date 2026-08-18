@@ -1,4 +1,4 @@
-# yan-etal_2026_natcomm
+# yan-etal_2026
 
 **Atmospheric and Land-Cover Shifts Enhance Terrestrial Productivity Resistance to Flash Droughts Across the United States**
 
