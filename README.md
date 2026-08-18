@@ -46,24 +46,24 @@ Clone the [CLM5 repository](https://github.com/ESCOMP/CTSM/tree/ctsm5.1.dev118) 
 
 Use the scripts found in the `figures` directory to reproduce the figures used in this publication.
 
-| Figure Numbers | Script Name | Description |
-| --- | --- | --- |
-| 1 | `Figure_1.py` | Spatial patterns of terrestrial productivity resistance to flash drought |
-| 2 | `Figure_2.py` | Changes in growing season (April–October) flash drought characteristics |
-| 3 | `Figure_3.py` | Changes in flash drought terrestrial productivity resistance and iWUE |
-| 4 | `Figure_4.py` | Impact of LULC change on flash drought characteristics |
-| 5 | `Figure_5.py` | Flash drought impacts on terrestrial productivity resistance |
-| S1 | `Figure_S1.py` | Scatterplot of climatology/vegetation factors and flash drought ratio |
-| S2 | `Figure_S2.py` | Scatterplot of land and soil factors and flash drought ratio |
-| S3 | `Figure_S3.py` | Regional distribution of climatology factors across CONUS |
-| S4 | `Figure_S4.py` | Regional distribution of atmospheric factors across CONUS |
-| S5 | `Figure_S5.py` | Regional distribution of land cover factors across CONUS |
-| S6 | `Figure_S6.py` | Regional distribution of vegetation factors across CONUS |
-| S7 | `Figure_S7.py` | Regional distribution of soil factors across CONUS |
-| S8 | `Figure_S8.py` | Feature importance from the EBM model |
-| S9 | `Figure_S9.py` | Land cover among the historical and future scenarios |
-| S10 | `Figure_S10.py` | GPP time series for cells undergoing grass-to-crop conversion |
-| S11 | `Figure_S11.py` | Mean monthly VPD for grass-to-crop conversion cells |
-| S12 | `Figure_S12.py` | CDFs of GPP decline rate for cells undergoing grass-to-forest conversion |
-| S13 | `Figure_S13.py` | Illustration of flash versus slow-onset drought |
-| S14 | `Figure_S14.py` | Illustrative flash drought event showing soil moisture and GPP percentile |
+| Figure Numbers | Script Name | Description | Figure |
+| --- | --- | --- | --- |
+| 1 | [Figure_1.py](https://github.com/IMMM-SFA/Yan-etal-2026/blob/main/figures/Figure_1.py) | Spatial patterns of terrestrial productivity resistance to flash drought | [![](https://github.com/IMMM-SFA/Yan-etal-2026/raw/main/figures/Figure_1.png)](https://github.com/IMMM-SFA/Yan-etal-2026/blob/main/figures/Figure_1.png) |
+| 2 | [Figure_2.py](https://github.com/IMMM-SFA/Yan-etal-2026/blob/main/figures/Figure_2.py) | Changes in growing season (April–October) flash drought characteristics | [![](https://github.com/IMMM-SFA/Yan-etal-2026/raw/main/figures/Figure_2.png)](https://github.com/IMMM-SFA/Yan-etal-2026/blob/main/figures/Figure_2.png) |
+| 3 | [Figure_3.py](https://github.com/IMMM-SFA/Yan-etal-2026/blob/main/figures/Figure_3.py) | Changes in flash drought terrestrial productivity resistance and iWUE | [![](https://github.com/IMMM-SFA/Yan-etal-2026/raw/main/figures/Figure_3.png)](https://github.com/IMMM-SFA/Yan-etal-2026/blob/main/figures/Figure_3.png) |
+| 4 | [Figure_4.py](https://github.com/IMMM-SFA/Yan-etal-2026/blob/main/figures/Figure_4.py) | Impact of LULC change on flash drought characteristics | [![](https://github.com/IMMM-SFA/Yan-etal-2026/raw/main/figures/Figure_4.png)](https://github.com/IMMM-SFA/Yan-etal-2026/blob/main/figures/Figure_4.png) |
+| 5 | [Figure_5.py](https://github.com/IMMM-SFA/Yan-etal-2026/blob/main/figures/Figure_5.py) | Flash drought impacts on terrestrial productivity resistance | [![](https://github.com/IMMM-SFA/Yan-etal-2026/raw/main/figures/Figure_5.png)](https://github.com/IMMM-SFA/Yan-etal-2026/blob/main/figures/Figure_5.png) |
+| S1 | [Figure_S1.py](https://github.com/IMMM-SFA/Yan-etal-2026/blob/main/figures/Figure_S1.py) | Scatterplot of climatology/vegetation factors and flash drought ratio | [![](https://github.com/IMMM-SFA/Yan-etal-2026/raw/main/figures/Figure_S1.png)](https://github.com/IMMM-SFA/Yan-etal-2026/blob/main/figures/Figure_S1.png) |
+| S2 | [Figure_S2.py](https://github.com/IMMM-SFA/Yan-etal-2026/blob/main/figures/Figure_S2.py) | Scatterplot of land and soil factors and flash drought ratio | [![](https://github.com/IMMM-SFA/Yan-etal-2026/raw/main/figures/Figure_S2.png)](https://github.com/IMMM-SFA/Yan-etal-2026/blob/main/figures/Figure_S2.png) |
+| S3 | [Figure_S3.py](https://github.com/IMMM-SFA/Yan-etal-2026/blob/main/figures/Figure_S3.py) | Regional distribution of climatology factors across CONUS | [![](https://github.com/IMMM-SFA/Yan-etal-2026/raw/main/figures/Figure_S3.png)](https://github.com/IMMM-SFA/Yan-etal-2026/blob/main/figures/Figure_S3.png) |
+| S4 | [Figure_S4.py](https://github.com/IMMM-SFA/Yan-etal-2026/blob/main/figures/Figure_S4.py) | Regional distribution of atmospheric factors across CONUS | [![](https://github.com/IMMM-SFA/Yan-etal-2026/raw/main/figures/Figure_S4.png)](https://github.com/IMMM-SFA/Yan-etal-2026/blob/main/figures/Figure_S4.png) |
+| S5 | [Figure_S5.py](https://github.com/IMMM-SFA/Yan-etal-2026/blob/main/figures/Figure_S5.py) | Regional distribution of land cover factors across CONUS | [![](https://github.com/IMMM-SFA/Yan-etal-2026/raw/main/figures/Figure_S5.png)](https://github.com/IMMM-SFA/Yan-etal-2026/blob/main/figures/Figure_S5.png) |
+| S6 | [Figure_S6.py](https://github.com/IMMM-SFA/Yan-etal-2026/blob/main/figures/Figure_S6.py) | Regional distribution of vegetation factors across CONUS | [![](https://github.com/IMMM-SFA/Yan-etal-2026/raw/main/figures/Figure_S6.png)](https://github.com/IMMM-SFA/Yan-etal-2026/blob/main/figures/Figure_S6.png) |
+| S7 | [Figure_S7.py](https://github.com/IMMM-SFA/Yan-etal-2026/blob/main/figures/Figure_S7.py) | Regional distribution of soil factors across CONUS | [![](https://github.com/IMMM-SFA/Yan-etal-2026/raw/main/figures/Figure_S7.png)](https://github.com/IMMM-SFA/Yan-etal-2026/blob/main/figures/Figure_S7.png) |
+| S8 | [Figure_S8.py](https://github.com/IMMM-SFA/Yan-etal-2026/blob/main/figures/Figure_S8.py) | Feature importance from the EBM model | [![](https://github.com/IMMM-SFA/Yan-etal-2026/raw/main/figures/Figure_S8.png)](https://github.com/IMMM-SFA/Yan-etal-2026/blob/main/figures/Figure_S8.png) |
+| S9 | [Figure_S9.py](https://github.com/IMMM-SFA/Yan-etal-2026/blob/main/figures/Figure_S9.py) | Land cover among the historical and future scenarios | [![](https://github.com/IMMM-SFA/Yan-etal-2026/raw/main/figures/Figure_S9.png)](https://github.com/IMMM-SFA/Yan-etal-2026/blob/main/figures/Figure_S9.png) |
+| S10 | [Figure_S10.py](https://github.com/IMMM-SFA/Yan-etal-2026/blob/main/figures/Figure_S10.py) | GPP time series for cells undergoing grass-to-crop conversion | [![](https://github.com/IMMM-SFA/Yan-etal-2026/raw/main/figures/Figure_S10.png)](https://github.com/IMMM-SFA/Yan-etal-2026/blob/main/figures/Figure_S10.png) |
+| S11 | [Figure_S11.py](https://github.com/IMMM-SFA/Yan-etal-2026/blob/main/figures/Figure_S11.py) | Mean monthly VPD for grass-to-crop conversion cells | [![](https://github.com/IMMM-SFA/Yan-etal-2026/raw/main/figures/Figure_S11.png)](https://github.com/IMMM-SFA/Yan-etal-2026/blob/main/figures/Figure_S11.png) |
+| S12 | [Figure_S12.py](https://github.com/IMMM-SFA/Yan-etal-2026/blob/main/figures/Figure_S12.py) | CDFs of GPP decline rate for cells undergoing grass-to-forest conversion | [![](https://github.com/IMMM-SFA/Yan-etal-2026/raw/main/figures/Figure_S12.png)](https://github.com/IMMM-SFA/Yan-etal-2026/blob/main/figures/Figure_S12.png) |
+| S13 | [Figure_S13.py](https://github.com/IMMM-SFA/Yan-etal-2026/blob/main/figures/Figure_S13.py) | Illustration of flash versus slow-onset drought | [![](https://github.com/IMMM-SFA/Yan-etal-2026/raw/main/figures/Figure_S13.png)](https://github.com/IMMM-SFA/Yan-etal-2026/blob/main/figures/Figure_S13.png) |
+| S14 | [Figure_S14.py](https://github.com/IMMM-SFA/Yan-etal-2026/blob/main/figures/Figure_S14.py) | Illustrative flash drought event showing soil moisture and GPP percentile | [![](https://github.com/IMMM-SFA/Yan-etal-2026/raw/main/figures/Figure_S14.png)](https://github.com/IMMM-SFA/Yan-etal-2026/blob/main/figures/Figure_S14.png) |
