@@ -29,7 +29,7 @@ Yan, H., Yao, L., Sun, N., Sinha, E., Narayan, K. and Rice, J. (2026). Atmospher
 
 | Dataset | URL | DOI |
 | --- | --- | --- |
-| CLM5 soil moisture and GPP simulations | https://data.msdlive.org/uploads/v0j35-eqv54 | https://doi.org/10.57931/3420371 |
+| CLM5 soil moisture and GPP simulations | https://data.msdlive.org/records/v0j35-eqv54 | https://doi.org/10.57931/3420371 |
 
 ### Contributing Modeling Software
 
